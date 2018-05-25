@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.6.40, for Linux (x86_64)
+-- MySQL dump 10.13  Distrib 5.7.20, for osx10.13 (x86_64)
 --
--- Host: localhost    Database: we8
+-- Host: localhost    Database: we7
 -- ------------------------------------------------------
--- Server version	5.6.37-log
+-- Server version	5.7.20
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -14,14 +14,6 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
---
--- Current Database: `we8`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `we8` /*!40100 DEFAULT CHARACTER SET utf8 */;
-
-USE `we8`;
 
 --
 -- Table structure for table `ims_account`
@@ -3487,4 +3479,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-05-24 22:19:57
+-- Dump completed on 2018-05-25  9:56:19
